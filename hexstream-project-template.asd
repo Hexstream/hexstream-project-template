@@ -8,7 +8,7 @@
   :description "I unsophistically copy/paste and rename/modify these files to start a new project, currently."
 
   :depends-on ()
-  
+
   :version "0.1"
   :serial cl:t
   :components ((:file "package")
