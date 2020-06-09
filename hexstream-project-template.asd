@@ -2,8 +2,7 @@
 
   :author "Jean-Philippe Paradis <hexstream@hexstreamsoft.com>"
 
-  ;; See the UNLICENSE file for details.
-  :license "Public Domain"
+  :license "Unlicense"
 
   :description "I unsophistically copy/paste and rename/modify these files to start a new project, currently."
 
